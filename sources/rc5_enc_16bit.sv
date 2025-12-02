@@ -12,4 +12,3 @@ module rc5_enc_16bit (input clock,//Positive edge-triggered clock
 	//Insert FSM to handle two rounds of encryption. 
 	
 endmodule
-
